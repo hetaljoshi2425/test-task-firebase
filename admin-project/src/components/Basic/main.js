@@ -1,5 +1,4 @@
 import { initializeApp } from "firebase/app";
-import { collection, getDocs, getFirestore } from "firebase/firestore/lite";
 import { createApp } from "vue";
 
 import DisplayData from "../Basic/DisplayData.vue";
